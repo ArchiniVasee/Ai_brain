@@ -1,0 +1,5 @@
+$primary: red;
+@import "../node_modules/bootstrap/scss/bootstrap";  // <-- this line is essential
+.light-gray-header { background:#f2f2f2; }
+.output-screen { /* your styles... */ }
+h1 { color:$primary; }
